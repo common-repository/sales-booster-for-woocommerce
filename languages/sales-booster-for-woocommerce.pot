@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Booster for WooCommerce\n"
+"POT-Creation-Date: 2017-02-16 11:50+0600\n"
+"PO-Revision-Date: 2017-02-16 11:50+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-wcsb-base.php:218
+#, php-format
+msgid "Sold %s ago"
+msgstr ""
+
+#: inc/class-wcsb-base.php:219
+msgid "View Product"
+msgstr ""
+
+#: inc/class-wcsb-options.php:44
+msgid "Sales Booster for WooCommerce"
+msgstr ""
+
+#: inc/class-wcsb-options.php:101
+msgid "Sales Booster for WooCommerce Options"
+msgstr ""
+
+#: inc/class-wcsb-options.php:110
+msgid "Enable Sales Booster for WooCommerce"
+msgstr ""
+
+#: inc/class-wcsb-options.php:114
+msgid "It will be decided whether this plugin will be active or not"
+msgstr ""
+
+#: inc/class-wcsb-options.php:120
+msgid "Toast Notification Option"
+msgstr ""
+
+#: inc/class-wcsb-options.php:125
+msgid "Position"
+msgstr ""
+
+#: inc/class-wcsb-options.php:131
+msgid "Top Right"
+msgstr ""
+
+#: inc/class-wcsb-options.php:134
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/class-wcsb-options.php:137
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/class-wcsb-options.php:140
+msgid "Top Left"
+msgstr ""
+
+#: inc/class-wcsb-options.php:147
+msgid "Sticky mode"
+msgstr ""
+
+#: inc/class-wcsb-options.php:163
+msgid "Show time life (in sec)"
+msgstr ""
+
+#: inc/class-wcsb-options.php:174
+msgid "Show Method"
+msgstr ""
+
+#: inc/class-wcsb-options.php:194
+msgid "Hide Method"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:16
+msgid "Purchase Notifier"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:17
+msgid "Purchase notifier widget help you to notify about last purhcase"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:42
+msgid "today"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:45
+msgid "yesterday"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:48
+msgid "in last 7 days"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:51
+msgid "in last 6 months"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:54
+msgid "in last 30 days"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:63
+msgid "has been sold "
+msgstr ""
+
+#: inc/class-wcsb-widget.php:63
+msgid "times"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:72
+msgid "ago"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:73
+msgid "has been sold"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:93
+msgid "New title"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:98
+msgid "Title:"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:104
+msgid "Show Last Purchase Limit:"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:110
+msgid "Show data for:"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:115
+msgid "Today"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:116
+msgid "Yesterday"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:117
+msgid "Last Seven Days"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:118
+msgid "Last 30 days"
+msgstr ""
+
+#: inc/class-wcsb-widget.php:119
+msgid "Last 6 Months"
+msgstr ""

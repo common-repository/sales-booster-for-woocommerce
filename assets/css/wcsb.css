@@ -1,0 +1,98 @@
+.wcsb-item-wrapper {
+    padding: 20px;
+    /*position: absolute;*/
+    z-index: 9999;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 1px 12px 0px rgba(212, 212, 212, 0.9);
+    width: 494px;
+    height: 202px;
+
+}
+.wcsb_absolute{
+    position: absolute;
+}
+.wcsb_fixed{
+    position: fixed;
+}
+
+.wcsb-item-wrapper ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.wcsb-item-wrapper ul li {
+    max-height: 60px;
+}
+
+.wcsb-item-wrapper ul li img{
+    max-width: 160px;
+    max-height: 160px;
+    margin-right: 30px;
+    display: inline-block;
+}
+
+.wcsb-item-wrapper .descr-box {
+    display: inline-block;
+    vertical-align: top;
+}
+.wcsb-item-wrapper .descr-box h4{
+    margin: 10px 0 0 0;
+    padding: 0;
+    font-size: 30px;
+    font-weight: normal;
+}
+.wcsb-item-wrapper .descr-box  .sold-time-ago {
+    color: #777777;
+    font-size: 16px;
+}
+
+/** Notification Position */
+.toast-top-left {
+    top: 12px;
+    left: 50px;
+}
+.toast-top-right {
+    top: 12px;
+    right: 50px;
+}
+.toast-bottom-right {
+    right: 50px;
+    bottom: 12px;
+}
+.toast-bottom-left {
+    bottom: 12px;
+    left: 50px;
+}
+.admin-bar .toast-top-right, .admin-bar .toast-top-left {
+    top: 42px;
+}
+
+/** Close Btn */
+a.toastCloseBtn {
+    background: #000;
+    border-radius: 50%;
+    color: #c3c5c7;
+    font-size: 25px;
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    right: -20px;
+    text-align: center;
+    top: -20px;
+    width: 40px;
+}
+a.toastCloseBtn:hover{
+    color: #dddddd;
+}
+.wcsb-item-wrapper .view_btn{
+    width: 130px;
+    height: 34px;
+    background: #000000;
+    line-height: 34px;
+    font-size: 12px;
+    text-align: center;
+    color: #ffffff;
+    display: block;
+    margin-top: 30px;
+}
